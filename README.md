@@ -1,4 +1,4 @@
-# Hi there! 👋  
+# Yo! 👾  
 
 I'm **Min Sik Hein**, a diploma computing student at **Info Myanmar College**. You can also call me **Direwen**.  
 
