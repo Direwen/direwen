@@ -1,6 +1,13 @@
-# 👾 About Me:
-Hi there! 👋 I'm Min Sik Hein, a diploma computing student at **Info Myanmar University**. You can also call me "Direwen". I'm currently sharpening my skills in **web development** while beginning my journey into the fascinating world of **AI and Machine Learning** 🤖. Although I’m just starting out in AI, I’m eager to learn and collaborate on **team-based projects** to grow my knowledge and experience. Outside of coding, you’ll find me balancing my passion for tech with gym workouts 💪. Let’s connect and create something amazing together! 🚀<br>
+# Hi there! 👋  
 
+I'm **Min Sik Hein**, a diploma computing student at **Info Myanmar College**. You can also call me **Direwen**.  
+
+### 🌟 About Me:  
+- 💻 Sharpening my skills in **web development**.  
+- 🤖 Beginning my journey into **AI and Machine Learning**.  
+- 👯 Eager to collaborate on **team-based projects** to learn and grow.  
+- 🏋️‍♂️ Balancing my passion for tech with gym workouts.  
+<br>
 
 ## 👾 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Direwen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
