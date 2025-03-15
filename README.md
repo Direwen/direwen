@@ -1,12 +1,11 @@
 # Yo! 👾  
+## 👋 I'm Min Sik Hein (Direwen)  
 
-I'm **Min Sik Hein**, a diploma computing student at **Info Myanmar College**. You can also call me **Direwen**.  
-
-### 🌟 About Me:  
-- 💻 Sharpening my skills in **web development**.  
-- 🤖 Beginning my journey into **AI and Machine Learning**.  
-- 👯 Eager to collaborate on **team-based projects** to learn and grow.  
-- 🏋️‍♂️ Balancing my passion for tech with gym workouts.  
+### 🌟 About Me  
+- 🎓 Currently pursuing a **BSc in Computer Science**  
+- 💻 Sharpening my skills in **web development**  
+- 🤖 Exploring **AI and Machine Learning**  
+- 👯 Passionate about **collaborative projects** and team learning 
 <br>
 
 ## 👾 Socials:
